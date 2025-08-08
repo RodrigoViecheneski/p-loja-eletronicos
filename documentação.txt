@@ -1,0 +1,28 @@
+Stack:
+    - Index
+    -(tabs)
+        -Inicio
+        - Stack Categorias
+            -Listagem de Categorias
+            -Listagem de produtos de UMA categoria
+        -Sobre mim
+    - Produto único
+
+
+     D:\reactNative> npx create-expo-app --template blank-typescript
+     apaga diretorio node_modules
+     PS D:\reactNative\p-loja-eletronicos> npm install
+      D:\reactNative\p-loja-eletronicos> npx expo-doctor
+
+      Vai no site expo.dev, Router, Manual Installation
+      segue o passo a passo...
+
+      cria diretorio types 
+        - category.ts
+        - product.ts
+    cria app
+        -_layout.tsx
+
+    cria services
+    
+    
